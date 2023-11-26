@@ -1,0 +1,1 @@
+# opensportwatch_hardware
